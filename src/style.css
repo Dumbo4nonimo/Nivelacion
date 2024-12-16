@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+
+#title{
+    color: green;
+}
+
+.subtitle{
+    color: goldenrod;
+}
+
+div h2.subtitle{
+    color: rgb(0, 70, 128);
+}
+
+#landscape{
+    width: 420px;; 
+    height: 300px;
+}
+
